@@ -1,6 +1,3 @@
-Got it! You can use the following license text instead:
-
----
 
 # Student Attendance Registry System
 
